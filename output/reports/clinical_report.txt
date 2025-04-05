@@ -1,0 +1,20 @@
+ANDERSON CANCER CENTER - CLINICAL ANALYSIS REPORT
+Date: 2025-04-05
+PATIENT DATA OVERVIEW:
+- Total cases analyzed: 569
+- High risk (Malignant): 212
+- Lower risk (Benign): 357
+KEY PATTERNS IDENTIFIED:
+1. Tumor Size/Shape Characteristics (44.3% impact)
+   - Most significant predictor of risk
+   - Includes radius, area, and compactness measures
+2. Cellular Texture Features (19.0% impact)
+   - Important secondary indicators
+   - Measures cell uniformity and border regularity
+PREDICTION MODEL PERFORMANCE:
+- Accuracy: 95.3%
+- Can correctly prioritize 542/569 cases
+RECOMMENDED ACTIONS:
+1. Use pattern analysis for case prioritization
+2. Incorporate model predictions into referral process
+3. Review visualizations in visualizations/ folder

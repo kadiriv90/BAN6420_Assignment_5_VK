@@ -1,0 +1,19 @@
+=== PREDICTION MODEL PERFORMANCE ===
+
+Accuracy: 97.08%
+ROC AUC Score: 0.997
+
+Classification Report:
+              precision    recall  f1-score   support
+
+   High Risk       0.97      0.95      0.96        63
+  Lower Risk       0.97      0.98      0.98       108
+
+    accuracy                           0.97       171
+   macro avg       0.97      0.97      0.97       171
+weighted avg       0.97      0.97      0.97       171
+
+
+CLINICAL IMPACT:
+- Can correctly identify 166/171 cases
+- Helps prioritize high-risk patients for immediate attention
